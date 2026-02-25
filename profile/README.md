@@ -3,6 +3,7 @@
     src="https://github.com/user-attachments/assets/2592f469-f1e3-46da-a834-08a0c1df8371"
     width="300"
     height="300"
+    style="border-radius: 50%;"
   />
 </p>
 
