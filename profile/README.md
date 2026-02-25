@@ -1,10 +1,7 @@
-
-
-
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/abc5e7fb-a3a9-4ace-8f85-6d018d80782d"
-    width="100%"
+    src="https://github.com/user-attachments/assets/2592f469-f1e3-46da-a834-08a0c1df8371"
+    width="300"
     height="300"
   />
 </p>
